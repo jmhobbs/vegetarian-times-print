@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+	<app appid='cnbhjieapgfdhegmbfjiehnanocfabai'>
+    <updatecheck codebase='https://github.com/jmhobbs/vegetarian-times-print/raw/61ff0fba543361f1718f274bf4315b508ce4eea4/vegetarian-times-print.crx' version='1.0' />
+  </app>
+</gupdate>
