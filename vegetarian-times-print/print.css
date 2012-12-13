@@ -25,4 +25,7 @@
 	#post_content p {
 		margin: 10px 0;
 	}
+	#footer_ad {
+		display:none;
+	}
 }
