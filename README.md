@@ -14,9 +14,7 @@ This is a Chrome plugin I made to fix it so I can print more recipes with less i
 
 # Installation
 
-Google [no longer allows you to install from any website](http://support.google.com/chrome_webstore/bin/answer.py?hl=en&answer=2664769&p=crx_warning) so you will need to download the most recent CRX, open your extensions page, and drag it in to install.
-
-Lame, I know. But I don't want to deal with the Google Chrome store.
+Get it from the Google Chrome Store: https://chrome.google.com/webstore/detail/vegetarian-times-printing/pgcffodlakamcbcmookbeolpnpblhpmb
 
 # Thanks
 
